@@ -2,7 +2,7 @@
 // @name              PC端下载MIUI 主题
 // @namespace         https://github.com/LittleControl/DownloadMIUITheme
 // @version           1.0
-// @icon              http://www.xiaomi.com/favicon.ico`
+// @icon              https://www.mi.com/favicon.ico
 // @description       恢复 MIUI 主题官网的下载按钮
 // @author            https://github.com/LittleControl
 // @supportURL        https://github.com/LittleControl/DownloadMIUITheme/issues
